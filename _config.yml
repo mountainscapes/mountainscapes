@@ -1,8 +1,8 @@
 # site settings
 title: Mountainscapes
-subtitle: Whistler Landscaping
+subtitle: Irrigation and Landscaping
 email: matt@mountainscapes.co
-description: A full service landscaping company
+description: Servicing Whistler Squamish and Permberton
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: mountainscapes.co
 author: Matt Francisty
@@ -23,7 +23,7 @@ facebook_url:
 github_url:
 gitlab_url:
 googleplus_url:
-instagram_url: https://instagram.com/mountainscapes
+instagram_url:
 linkedin_url:
 pinterest_url:
 slack_url:

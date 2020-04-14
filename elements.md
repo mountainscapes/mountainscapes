@@ -286,7 +286,7 @@ Finally, this is a <a href="#">link</a>.</p>
 	<li><a href="#" class="button fit">Fit</a></li>
 </ul>
 <ul class="actions fit small">
-	<li><a href="#" class="button special fit small">Fit + Small</a></li>
+	<li><a href="#" class="button special   fit small">Fit + Small</a></li>
 	<li><a href="#" class="button fit small">Fit + Small</a></li>
 </ul>
 <ul class="actions">
