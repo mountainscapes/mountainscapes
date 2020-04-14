@@ -13,6 +13,13 @@
 		> .inner {
 			@include vendor('display', 'flex');
 			padding: 0 !important;
+			margin: 0 auto;
+			max-width: _size(inner);
+			width: calc(100% - 6em);
+
+			@include breakpoint(small) {
+				width: calc(100% - 3em);
+			}
 
 			> :nth-child(2n - 1) {
 				@include padding(4em, 0, (0, 3em, 0, 0));

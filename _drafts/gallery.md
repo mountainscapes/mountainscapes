@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Gallery
 nav-menu: true
 ---
 
