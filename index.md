@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Irrigation and Landscaping'
-description: null
+description: 'Whistler Landscaping and Irrigation servicing Pemberton and the Sea to Sky corridor.'
 image: null
 author: null
 show_tile: false
